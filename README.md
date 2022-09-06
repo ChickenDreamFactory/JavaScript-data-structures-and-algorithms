@@ -65,7 +65,7 @@ JavaScript-data-structures-and-algorithms
 - [排序]()
 - [贪心思想]()
 - [二分查找]()
-- [分治]]()
+- [分治]()
 - [搜索]()
 - [动态规划]()
 - [数学]()
