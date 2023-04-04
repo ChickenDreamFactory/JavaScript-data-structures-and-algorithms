@@ -175,6 +175,11 @@
    - LeeCode172.阶乘后的零
    - LeetCode172204.计数质数
    - LeetCode1201.丑数!
+- 股票系列
+   - [leetcode 188. 买卖股票的最佳时机 IV #动态规划](https://www.bilibili.com/video/BV1wm4y167F8/?spm_id_from=333.999.0.0&vd_source=e7053fd1cd16f97a78468adfd84960bc)
+   - [leetcode 123. 买卖股票的最佳时机 III #动态规划]()
+   - [leetcode 309. 最佳买卖股票时机含冷冻期 #动态规划]()
+   - [leetcode 122. 买卖股票的最佳时机 II #动态规划]()
 - 前缀和与差分
    - 前缀和讲解+例题
    - 差分讲解+例题
